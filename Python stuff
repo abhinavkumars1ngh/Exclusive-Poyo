@@ -1,0 +1,13 @@
+To Run this script, follow these steps:
+
+git clone https://github.com/abhinavkumars1ngh/Exclusive-Poyo
+
+pip install pillow pygame
+
+pip install tkinter
+
+cd Exclusive-Poyo
+
+cd Python stuff
+
+python3 bday.py
